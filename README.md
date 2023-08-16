@@ -50,11 +50,11 @@ Elvárt eredmény: egyetértés a közösen kikutatott igazságban.
 - A másik érveinek figyelmen kívül hagyása.
 - Egy feltételezést tényként fogad el, és egyből vonja le belőle a következtetéseket. Nem hagyja a másikat szóhoz jutni. Az az etikus, hogy felvetjük, hogy van egy feltételezésünk, és szerintünk az igaz, és kiváncsiak vagyunk a másik véleményére erről. És ha a másik is tényként vagy lehetséges tényként fogadja el, csak akkor vonjunk le következtetéseket, egyébként meg vitassuk meg a feltételezést.
 - Határesetek általánosítása.
-- Nem csak az adott dolgot vitatja meg, hanem a hozzátartozó egész hitrendszert. Nem közvetlenül a dolgot vitatja meg, hanem annak tágabb környezetét. Ezzel menekülni lehet a kudarctól.
+- Nem csak a vita tárgyát vitatja meg, hanem annak tágabb környezetét is. Ezzel menekülni lehet a kudarctól.
   - Ezzel az a baj, hogy ha elkezdünk bevonni mindenféle nem közvetlenül kapcsolódó dolgot, akkor nem adjuk meg a lehetőséget a másiknak, hogy csak az adott témára reagáljon, hanem arra kényszerítjük, hogy reagáljon a nem szorosan kapcsolódó ellenérveinkre. És ha mindkét fél elkezdi sorolni a maga környezeti érveit, akkor gyakorlatilag el fognak beszélni egymás mellett, és mindenről szó lesz, csak éppen a kiindulási téma szorul a háttérbe.
   - Ha valaki így érvel, akkor vagy szóljunk neki, hogy nem ez nem egy etikus érvelés, maradjunk a témánál, és csak a közvetlenül a témával kapcsolatos dolgokkal érveljen, vagy hagyjuk abba a vitatkozást, vagy váltsuk át a vitatkozás tárgyát arra, amivel érvelt a másik.
   - Fontos, hogy mindig a témánál maradjunk.
-- Szándékosan csak egy (pár) szempontból érvel, és úgy mondja, mintha nem is lenne más szempont, vagy túlértékeli a szempontját.
+- Szándékosan csak egy (pár) szempontból érvel, és úgy mondja, mintha nem is lenne más szempont, vagy túlértékeli a szempontját / szempontjait.
 - Személyeskedés. Amikor elfogynak a józan érvek.
 - Az igazság tudatos elferdítése, a hazugsággal vegyített igazság.
   - Pl. amikor tényekből hamis konklúziót vonnak le, kihasználva a hallgatóság tudatlanságát, és akár a vitatkozó fél tudatlanságát.
