@@ -10,7 +10,7 @@ Bárcsak mindenki megjegyezné a következőt: a vitatkozás alapvetően nem ros
 
 Elvileg, ha ezt a módszert a vitatkozó felek követik, betartják, akkor el kell hogy jussanak az igazságban való egyetértésre.
 
-## Lépések:
+## A módszer lépései:
 
 0. A vitatkozó felek áttinktik az "A vitatkozás aranyszabályai" és az "Etikátlan módszerekre példák" részeket (lentebb), és elhatározzák, hogy a szabályokat betartva, etikusan fognak vitatkozni.
 1. A megvitatandó témát osszuk fel kisebb egységre, a kisebb egységeket szintén osszuk fel még kisebb egységekre, és így tovább egészen addig amíg már tovább nem osztható ún. atomi egységeket nem kapunk. Egy felosztás során megalkotjuk a megvitatandó téma struktúráját.
