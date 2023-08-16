@@ -1,6 +1,6 @@
 # Igazságra fókuszáló vitatkozási módszer
 
-(Hozzájárulásokat szívesen fogadok.)
+(Megj.: Hozzájárulásokat szívesen fogadok.)
 
 ## Bevezetés
 
