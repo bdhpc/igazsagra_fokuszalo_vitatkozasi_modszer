@@ -1,7 +1,5 @@
 # Igazságra fókuszáló vitatkozási módszer
 
-(Megjegyzés: Hozzájárulásokat szívesen fogadok.)
-
 ## Bevezetés
 
 Minden olyan tevékenységet, ahol eltérő álláspontokból kommunikáció útján egy közös álláspontot próbálnak elérni vagy meg akarják egymást győzni, vitatkozásnak nevezünk ebben a dokumentumban. Tehát itt a vitatkozásba beletartozik a megbeszélésnek nevezett tevékenység is. Sajnos sok ember fejében a vitatkozás egy negatív kifejezés, és inkább szeretik a megbeszélés szót a pozitív hangulatú álláspont egyeztetések kifejezésére, de szerintem a megbeszélés szó nem elég tágértelmű. Pl. itt vitatkozásnak számít az is, ha egy jó kapcsolatú házaspár megértően kommunikál egymással arról, hogy hova lenne érdemes menni nyaralni. Tehát nem újdonság az, hogy lehet pozitívan vitatkozni, de ez sok embernek azért újdonság, mert a vitatkozás definíciójához állandóan hozzáasszociálnak valami rosszat. Ennek a módszernek az igazságra vezetésen túl az is célja, hogy az embereknek ne legyen rossz érzése a vitatkozás szó hallatán, hogy az emberek szeressék a megfelelő vitatkozást, hogy megtanulják, hogy a vitatkozás nem egyenlő a veszekedéssel, hanem lehet normálisan is csinálni.
