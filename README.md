@@ -41,6 +41,8 @@ Elvárt eredmény: egyetértés a közösen kikutatott igazságban.
     
 10. Makacs emberrel nem vitatkozom: Ha azt látom, hogy az érveim sérti a másik büszkeségét, akkor tisztázom indítékomat, és ha ezután elutasít, akkor nem vitázok vele.
 
+__Megj.__: a fenti pontokból ha mást nem is, egy dolgot nagyon fontos megjegyezni, aminek mindig alapnak kell lennie: ez az ún. __tudományos alázatosság__, ami azt jelenti, hogy hajlandó vagyok felülvizsgálni a saját álláspontomat, azt kibeszéltetni, több oldalról megközelíteni, a hozzá kapcsolódó kritikákat komolyan venni, és szükség esetén módosítani az álláspontomon (azaz amikor kiderül, hogy az álláspontom nem (teljesen) igaz).
+
 # Etikátlan módszerekre példák
 
 - Szándékosan kontextus nélkül magyarázni egy dolgot. Ezzel félre lehet magyarázni az eredeti mondanivalót.
@@ -57,4 +59,5 @@ Elvárt eredmény: egyetértés a közösen kikutatott igazságban.
 - Az igazság tudatos elferdítése, a hazugsággal vegyített igazság.
   - Pl. amikor tényekből hamis konklúziót vonnak le, kihasználva a hallgatóság tudatlanságát, és akár a vitatkozó fél tudatlanságát.
 - Érzelmi manipuláció.
+  - Ennek minősül, ha a velünk egyet nem értők ellenkező nézeteit nagyon hangsúlyosan leminősítjük, lenézzük, továbbá az ellennézeteket vallókat hülyének és/vagy gonosznak állítjuk be, így nyomást gyakorolva a hallgatóra, hogy eszébe ne jusson foglalkozni az ellentmondó nézetekkel, és így szellemi fölényt sugallunk a hallgatóság felé, hogy a mi érveink aztán nagyon erősek, nagyon meggyőzők, szemben a buta/gonosz emberek szerintünk ellentmondásos nézeteivel. Amikor az a cél, hogy megutáltassák a hallgatósággal az ellennézeteket és azok képviselőit, így próbálva elérni azt, hogy a hallgatóknak szégyen érzetet keltsen az előadó tanításainak elvetése, és büszkeséget annak elfogadása. Aki ezt a módszert alkalmazza, az bizonyságot tesz arról, hogy benne nincs tudományos alázatosság.
   - Technikailag nem feltétlenül etikátlan. Kihasználja a hallgatóság érzelmeit, előítéleteit, vágyait.
